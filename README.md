@@ -1,5 +1,5 @@
 # Temperature-CPP
-This is a Temperature Program code in C++
+This is a Simple Temperature Program code in C++
 
 This my school assignment so feel free to improve this code.
 
